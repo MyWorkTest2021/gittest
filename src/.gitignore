@@ -6,7 +6,7 @@
 
 # AWS User-specific
 .idea/**/aws.xml
-
+x
 # Generated files
 .idea/**/contentModel.xml
 
